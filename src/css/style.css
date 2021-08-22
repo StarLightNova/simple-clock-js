@@ -1,0 +1,23 @@
+html, body{
+    height: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+#watch{
+    margin: auto;
+    width: 450px;
+    height: 450px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+#canvas{
+    padding-left: 0;
+    padding-right: 0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    border-radius: 50%;
+}
